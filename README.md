@@ -30,4 +30,4 @@
 
 
 
-[![GitHub deepshikhayadav](https://img.shields.io/github/followers/zoo868e?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
+[![GitHub deepshikhayadav](https://img.shields.io/github/followers/zoo868e?label=follow&style=social&logoColor=black)](https://github.com/zoo868e)
